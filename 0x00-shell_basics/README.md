@@ -1,1 +1,1 @@
-James ALX repo
+This repository contains solutions to shell tasks
